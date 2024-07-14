@@ -38,5 +38,5 @@ Authenticate the user by having them visit /auth/wix
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pixetree/omniauth-wix.
+Bug reports and pull requests are welcome on GitHub at [https://github.com/avinoth/omniauth-wix](https://github.com/avinoth/omniauth-wix).
 
